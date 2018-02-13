@@ -10,6 +10,6 @@ public class ArrayUtil {
 		}
 		sb.replace(sb.length()-1, sb.length(), "}");
 		return sb.toString();
-	}
+	} 
 
 }
